@@ -13,4 +13,4 @@ TOKEN="YOUR_TOKEN"
 ## Support
 Join one of these Discord Servers, to get support:
 
-[<img src="https://discordapp.com/api/guilds//?style=banner2" alt="Discord Banner 1"/>](https://discord.gg/sPDWsneP)
+[<img src="https://discordapp.com/api/guilds//?style=banner2" alt="Support Server"/>](https://discord.gg/sPDWsneP)
